@@ -1,0 +1,10 @@
+#pragma once
+/*
+	ÊÂ¼þÑ­»·
+*/
+class EventLoop
+{
+public:
+	void Loop();
+};
+
